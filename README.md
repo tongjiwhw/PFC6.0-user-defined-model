@@ -1,3 +1,3 @@
-# simplified hertz model with Iwashita rolling resistance theory 2020.09.27
+# 2020.09.27 simplified hertz model with Iwashita rolling resistance theory
 
 
